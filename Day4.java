@@ -3,7 +3,7 @@ package Day4;
 public class VariabelFinal {
 
     public static void main(String[] args) {
-        final String BG, Biased, en;
+        final String BG, Biased;
         final int ageb1, ageb2;
 
         BG = "Enhypen";
