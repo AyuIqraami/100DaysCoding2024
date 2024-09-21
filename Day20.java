@@ -8,7 +8,7 @@ public class OperatorPenugusan2 {
         data1 *= 2;
         
         //pengisian dan pembagian
-        int data2 = 135;
+        double data2 = 135;
         data2 /= 4;
 
         System.out.println("Value of data1 = " + data1);
