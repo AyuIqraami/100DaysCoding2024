@@ -16,7 +16,7 @@ public class Day40_OperatorPerbandingan1 {
         boolean c = a > b;
         boolean d = a < b;
         System.out.println("Nilai a lebih besar dari b = " + c);
-        System.out.println("Nilai a lebih kecil dari c = " + d);
+        System.out.println("Nilai a lebih kecil dari b = " + d);
 
     }
 }
