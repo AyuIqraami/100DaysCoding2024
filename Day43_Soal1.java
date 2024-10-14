@@ -11,7 +11,7 @@ public class Day43_Soal1 {
         System.out.print("Input Satuan    : ");
         String satuan = ayu.next();
 
-        double PI = 3.14159;
+        final double PI = 3.14159;
         double keliling = 2 * PI * JariJari;
         double luas = PI * JariJari * JariJari;
 
